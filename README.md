@@ -39,7 +39,7 @@ yarn storybook
 │   Storybook 6.5.12 for React started              │
 │   13 s for preview                                │
 │                                                   │
-│    Local:                   │
+│    Local:            http://localhost:6006/       │
 │                                                   │
 ╰───────────────────────────────────────────────────╯
 ```
