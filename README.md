@@ -33,4 +33,15 @@ yarn add -D @storybook/addon-interactions @storybook/jest @storybook/testing-lib
 
 ```bash
 yarn storybook
+
+╭───────────────────────────────────────────────────╮
+│                                                   │
+│   Storybook 6.5.12 for React started              │
+│   13 s for preview                                │
+│                                                   │
+│    Local:                   │
+│                                                   │
+╰───────────────────────────────────────────────────╯
 ```
+
+<http://localhost:6006/>
